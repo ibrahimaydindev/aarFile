@@ -16,6 +16,7 @@
       <url>https://jitpack.io</url>
     </repository>
   </repositories>
+  <dependencyManagement>
   <dependencies>
     <dependency>
       <groupId>androidx.databinding</groupId>
@@ -153,4 +154,5 @@
         <version>24.4.5</version>
     </dependency> 
  </dependencies>
+  </dependencyManagement>
 </project>
