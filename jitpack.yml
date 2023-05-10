@@ -1,3 +1,0 @@
-install: 
-FILE="-Dfile=aarFile-1.0.aar" 
-mvn install:install-file $FILE -DgroupId=com.github.ibrahimaydindev -DartifactId=aarFile -Dversion=1.0 -Dpackaging=aar -DpomFile=pom.xml
